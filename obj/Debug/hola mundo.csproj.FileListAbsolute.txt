@@ -1,0 +1,7 @@
+C:\Users\anton\source\repos\hola mundo\hola mundo\bin\Debug\hola mundo.exe.config
+C:\Users\anton\source\repos\hola mundo\hola mundo\bin\Debug\hola mundo.exe
+C:\Users\anton\source\repos\hola mundo\hola mundo\bin\Debug\hola mundo.pdb
+C:\Users\anton\source\repos\hola mundo\hola mundo\obj\Debug\hola mundo.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\hola mundo\hola mundo\obj\Debug\hola mundo.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\hola mundo\hola mundo\obj\Debug\hola mundo.exe
+C:\Users\anton\source\repos\hola mundo\hola mundo\obj\Debug\hola mundo.pdb
